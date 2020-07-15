@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*---------------------------*/
+/* 引用思源中文              */
+/*---------------------------*/
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+/*---------------------------*/
+/* 定義網頁                  */
+/*---------------------------*/
+html, body{
+    font-size:17px;
+    /*設定思源中文*/
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 280;	
+    background-color:#AA3939;
+    background-image:url(../images/background.jpg);
+		background-attachment:fixed;
+		margin:0;	
+		text-align:justify; 
+}
+
+div.clear{
+	clear:both;
+}
+
+
+/*---------------------------*/
+/* 定義標題                   */
+/*---------------------------*/
+div.header{
+    width:100%;	
+    min-width:800px;
+    height:80px;
+    background-color:rgba(0,0,0,0.7);
+    text-align:center;
+    position:fixed;
+    z-index:20;
+    box-shadow:0px 1px 3px 1px #000;
+}
+
+/*---------------------------*/
+/* 定義logo圖示               */
+/*---------------------------*/
+div.header img.logo{
+    width:80px;
+    height:80px;
+    border-radius:40px;
+    position:relative;
+    z-index:30;    
+    top:20px;
+    box-shadow:0px 1px 3px 1px #000;
+}
+
+div.header img.logo:hover,div.step img.slogo:hover,div.imfor img.slogo:hover,div.step h2:hover,div.imfor h2:hover{
+    cursor:pointer;
+}
+
+/*---------------------------*/
+/* 定義導覽列                 */
+/*---------------------------*/
+div.navbar{	   
+    width:800px;
+    height:40px;
+    line-height:40px;
+    box-sizing:border-box;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    top:-50px;    
+}
+
+div.navbar ul{	 
+    margin:0;
+    padding:0;
+    list-style-type:none;	
+}
+
+div.navbar ul.left{
+    float:left;
+    margin-left:100px;
+}
+
+div.navbar ul.right{
+    float:right;
+    margin-right:100px;
+}
+
+div.navbar ul li{
+    width:100px;
+    text-align:center;	
+    float:left;
+    color:#FFAAAA;
+}
+
+
+/*--~~~~~~~~~~~~~~~~~~~~~~~--*/
+/* 定義容器                   */
+/*--~~~~~~~~~~~~~~~~~~~~~~~--*/
+div.container{
+    width:800px;	
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;	
+    top:80px;
+    
+}
+
+
+/*---------------------------*/
+/* 定義內容                   */
+/*---------------------------*/
+div.content{	   
+    padding:0px 25px 20px 25px;
+    box-sizing:border-box;
+    background:#fff;
+    padding-top:25px;
+}
+
+div.content img.left{
+	float:left;
+	margin-right:15px;
+	border:5px solid #FFF;
+	box-shadow:0px 0px 5px 2px #999;
+}
+/*---------------------------*/
+/* 定義表尾                   */
+/*---------------------------*/
+div.footer{
+    height:100px;
+    line-height:100px;
+    background-color:#550000;
+    font-size:13px;
+    text-align:center;
+    letter-spacing:3px;
+    color:#fff;
+}
+
+/*-----------TABLE------------*/
+div.content table{ 
+	width:100%;
+  border-collapse:collapse;
+  margin-right:40px;
+  margin-bottom:20px;
+}
+
+div.content td.cars{
+	text-align:right;
+	margin-right:0px;	
+}
+div.content td{
+	border-bottom:1px solid #aaa;
+}
+/*-----------iframe------------*/
+div.content iframe{
+	width:740px;
+	height:450px;
+	border:5px solid #FFF;
+	box-shadow:0px 0px 5px 2px #999;
+	border-radius:20px;
+}
+
+/*-------------s/i--------------
+div.step,div.imfor {
+	background-color:#999;
+}*/
+
+
+div.step img.slogoR , div.imfor img.slogoR,
+div.step img.slogoL , div.imfor img.slogoL  {
+		width:30px;
+    height:30px;
+    margin:0 10px 0 10px;
+	 border-radius:15px;
+	 box-shadow:0px 0px 1px 1px #FFAAAA;
+	  position:relative;
+	  top:5px;
+}
+
+h2{
+	color:#e31f0f;
+}

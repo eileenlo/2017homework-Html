@@ -1,0 +1,129 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>豐年祭</title>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="css/main.css">
+</head>
+
+
+<body>
+	<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <div class="header">
+        <!--~~~~~~logo圖片~~~~~-->      
+        <img src="images/logo.jpg" class="logo">
+        <!--~~~~~~~~~~~~~~~~~~-->         
+
+        <!--~~~導覽列~~~-->  
+        <div class="navbar">
+            <ul class="left">
+                <a href="#"><li>活動</li></a>
+                <a href="#"><li>景點</li></a>
+            </ul>
+
+            <ul class="right">
+                <a href="#"><li>遊程</li></a>
+                <a href="#"><li>資訊</li></a>
+            </ul>            
+        </div>   
+        <!--~~~~~~~~~~~~-->         
+    </div>
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->  
+
+
+
+ 		<!--==========================================-->
+    <div class="container">
+	    	<div class="content">
+	    		<h2>部落豐年祭活動</h2>
+		    	<p>每年一到暑假七月份開始就是原住民豐年祭典的季節，各部落舉辦各場的歡樂，神聖祭典活動，其中以阿美族的豐年祭最受矚目。阿美族非常注重祭儀典禮，一年一度的豐年祭亦是族中最具代表性的祭典，以慶祝稻米豐收、感謝祖靈和諸神保祐。每年小米秋收或稻米完成收割，亦是阿美族豐年祭舉行之時。其隆重情況就如中國人過新年一樣，傳統活動包括莊嚴的祭儀、風味文化饗宴、精采歌舞、民俗競技運動、手藝展及捕魚祭等，盡情展露原住民豪邁熱情的個性。</p>
+					<p>
+            <ul class="bxslider">
+              <li><img src="images/p1.jpg"></li>
+              <li><img src="images/p2.jpg"></li>
+              <li><img src="images/p3.jpg"></li>
+              <li><img src="images/p4.jpg"></li>
+              <li><img src="images/p5.jpg"></li>
+            </ul>
+					</p>
+					<p>阿美族豐年祭是一年一次慶祝農作物豐收的盛事依傳統往例，通常即以村落為單位時間由一至七天不等以祈禱、跳舞和唱歌的方式來慶祝每年七月中旬由台東的阿美族揭開序幕依次往北推，至花蓮吉安鄉是八月底或九月初民國七十二年起，每年將各村落原本分散的小型傳統豐年祭，集中成鄉鎮為單位舉行慶典約持續六到八天傳統重頭戲「巴大過斯」「敬老大會餐」「情人之夜」照傳統的習俗，豐年祭在夜晚揭開序幕第一天禁止女孩子參與，最後一天女孩子必須全部參加並由女孩子的歌聲做最後的結束。</p>
+					<p>阿美族非常注重祭儀典禮，一年一度的豐年祭亦是族中最具代表性的祭典，以慶祝稻米豐收、感謝祖靈和諸神保祐。每年小米秋收或稻米完成收割，亦是阿美族豐年祭舉行之時。其隆重情況就如中國人過新年一樣，傳統活動包括莊嚴的祭儀、風味文化饗宴、精采歌舞、民俗競技運動、手工藝展及捕魚祭等，盡情展露原住民豪邁熱情的個性。</p>
+				
+						<!-------------------------------------------->
+						<div class="step">
+								<center><h2><img src="images/logo-small.jpg" class="slogoL">祭典流程<img src="images/logo-small.jpg" class="slogoR"></h2></center>
+								<p>港口部落（Makotaay）的傳統「年祭（ilisin）」尚保留一些古老的型態，在每年夏季七月中下旬農作收成後舉行。</p>
+								<p>傳統年祭的宗教本質受西洋宗教的影響，因此年祭活動的前一天特別引用宗教彌撒的儀式，取代了傳統，但族人對年祭的傳統觀念未變，認為年祭是水稻收割之後必須舉行的祭儀活動，是向祖先神靈malatao感恩以及驅邪除疫的儀式。由男子年齡階級組織舉辦祭典活動，期間紀律嚴格執行，違者接受處分，階級制度充分發揮，除了特殊人物，如頭目之外，公職人員、民意代表、軍人、學者、政治人物，企業界等高層階級人物之身分地位不被突顯，一律按照年齡的大小來執行任務。古老型的年祭設有招待貴賓日，除此之外的其他日子均拒絕外來部落人士加入歌舞，也不便讓外界族人相互歌舞交流。</p>
+			
+								<img src="images/s1.jpg" width="300px" class="left">
+			
+								<p>祭典的開始從第一天晚上十時起通宵直至次日早上十時止，稱為迎靈祭。matoasay老人階級坐在內圈的位置上，可唱歌飲酒，並自由進出，外圍是青年階級和壯年階級的歌舞範圍，除非有特別的事情，終日不得離隊或早退，mama no kapah嚴格執行紀律，須臾不離的領導或指揮全體的歌舞。</p>
+								<p>第二、三、四天為宴靈祭，每天下午五時起至深夜十時止，每日歌舞的形式與迎靈祭相同，始終反覆不變，參加歌舞的全為部落男子，雖然枯燥乏味，但男子組的歌舞有其特色，並充滿力與美的震撼，其中尚有未婚男女相互認識的鵲橋會pakayat；選拔優秀青年的表揚paiwa：以一杯無限的敬意向族人長輩獻酒的palimo；祭典歌舞最後一首，如海浪波濤的mirecok歌舞，各年齡階級依序向族人長者致敬等等祭典內容。</p>
+								<p>最後一天則為女子組之歌舞，僅少數mam no kapah及malakacaway階級協助活動，歌舞形式與男子組相同，僅有一首女子組專屬的歌舞，稱為mipihay。</p>
+								<div class="clear"></div>
+						</div>
+						<!-------------------------------------------->
+						<!-------------------------------------------->
+						<div class="imfor">
+							
+								<center><h2><img src="images/logo-small.jpg" class="slogoL">活動資訊<img src="images/logo-small.jpg" class="slogoR"></h2></center>
+								<table>
+			      				<tr>
+			      					<td>活動名稱：</td>
+			      					<td>部落原住民族豐年節活動</td>
+			      				</tr>
+			      				<tr>
+			      					<td>活動時間：</td>
+			      					<td>8月份</td>
+			      				</tr>
+			      				<tr>
+			      					<td>活動地址：</td>
+			      					<td>鳳林鎮各部落</td>
+			      				</tr>
+			      				<tr>
+			      					<td>主辦單位：</td>
+			      					<td>鳳林鎮各部落</td>
+			      				</tr>
+			      				<tr>
+			      					<td colspan="2">交通指引：</td>
+			      					<td></td>
+			      				</tr>
+			      				<tr>
+			      					<td class="cars">開車：</td>
+			      					<td>從花蓮往台東的方向沿著台九線開，南平里台九線旁即可到達鳳林鎮。</td>
+			      				</tr>
+			      				<tr>
+			      					<td class="cars">火車：</td>
+			      					<td>坐往鳳林火車站即可。</td>
+			      				</tr>
+			      				<tr>
+			      					<td class="cars">公車：</td>
+			      					<td>搭花東鐵路至鳳林站下車或搭往富里、玉里、瑞穗的花蓮客運於鳳林站下車。</td>
+			      				</tr>
+			      		</table>
+			      		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116867.07074329245!2d121.39125821154846!3d23.743957208520605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468ae11a2a59a0b%3A0x98e338157ab0b64e!2zOTc16Iqx6JOu57ij6bOz5p6X6Y6u!5e0!3m2!1szh-TW!2stw!4v1491202830179"></iframe>
+								<div class="clear"></div>
+						</div>
+						<!-------------------------------------------->
+			</div>
+	 		<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	    <div class="footer">
+	    		NTUB imd, 2017.    
+	    </div>        
+	    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--> 
+		</div>
+ 		<!--==========================================-->	
+ 		    <!--*********-->
+    <!-- 載入js  -->
+    <!--*********-->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>    
+    <script src="js/jQueryRotate.js"></script>
+    <script src="js/jquery.bxslider.js"></script>   
+    <script src="js/my.jquery.bxslider.js"></script>   
+    <script src="js/scripts.js"></script> 
+ 		
+</body>
+</html>

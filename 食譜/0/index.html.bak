@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CAKE</title>
+<!-- 加入 main.css -->
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <div class="header">
+        <!--~~~~~~logo圖片~~~~~-->      
+        <img src="images/logo.jpg" class="logo">
+        <!--~~~~~~~~~~~~~~~~~~-->         
+
+        <!--~~~導覽列~~~-->  
+        <div class="navbar">
+            <ul class="left">
+                <a href="#"><li>簡介</li></a>
+                <a href="#"><li>食材</li></a>
+            </ul>
+
+            <ul class="right">
+                <a href="#"><li>步驟</li></a>
+                <a href="#"><li>成品</li></a>
+            </ul>            
+        </div>   
+        <!--~~~~~~~~~~~~-->         
+    </div>
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->  
+    
+    
+    
+    <!--==========================================-->
+    <div class="container">
+        
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <div class="content">
+            <h2 class="title">半熟乳酪起司塔</h2>
+            <p>東京火紅的BAKE起司塔竟然也可以自己做！這次的食譜是半熟乳酪起司塔，一個不用70元，更不用飛出國，餡料還無敵滿，就只有自己製作的半熟起司塔才會這麼實在，快來看怎麼製作吧！</p>
+      		  <img src="images/C00.jpg" class="TOP">
+      		 
+      			<table>
+      				<tr>
+      					<td>食材 （4 人份）</td>
+      					<td>120 分鐘</td>
+      				</tr>
+      				<tr>
+      					<td>低筋麵粉</td>
+      					<td>160g</td>
+      				</tr>
+      				<tr>
+      					<td>蛋黃 一 個</td>
+      					<td>20cc</td>
+      				</tr>
+      				<tr>
+      					<td>糖粉 (市售)</td>
+      					<td>30g</td>
+      				</tr>
+      				<tr>
+      					<td>鐵塔牌-發酵奶油</td>
+      					<td>80g</td>
+      				</tr>
+      				<tr>
+      					<td>牛奶 20cc (市售)</td>
+      					<td>20cc</td>
+      				</tr>
+      				<tr>
+      					<td>半熟乳酪起司內餡製作</td>
+      				</tr>
+      				<tr>
+      					<td>鐵塔牌-美式奶油起司</td>
+      					<td>250g</td>
+      				</tr>
+      				<tr>
+      					<td>白糖 (市售)</td>
+      					<td>50g</td>
+      				</tr>
+      				<tr>
+      					<td>鐵塔牌-發酵奶油</td>
+      					<td>25g</td>
+      				</tr>
+      				<tr>
+      					<td>雞蛋 一顆</td>
+      					<td>70cc</td>
+      				</tr>
+      				<tr>
+      					<td>低筋麵粉</td>
+      					<td>25g</td>
+      				</tr>
+      				<tr>
+      					<td>鐵塔牌-鮮奶油</td>
+      					<td>50cc</td>
+      				</tr>
+      			</table>
+      			<div class="clear></div>
+        </div>
+        
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->             
+        
+        <div class="step1">
+        	<p>塔皮製作 (材料)</p>
+        </div>
+        <div class="step2">
+        	<p>1.將低筋麵粉、糖粉、鹽巴過篩備用</p>
+        	<p>2.將冰涼的奶油切成小丁備用 (注意：勿將奶油放至室溫，會影響到麵糰的製作)</p>
+        	<p>3.使用搗泥器或奶油切割器將奶油導入麵粉中</p>
+        	<p>4.搗碎的程度大概是麵粉泥中有奶油，奶油中有麵粉就可以了，有一點粗顆粒的粉狀。</p>
+        </div>
+        <div class="step3">
+        	<p>▶ 把蛋黃和牛奶拌入，用手捏揉的方式讓麵糰成型。 </p>
+        	<p>▶ 成型的麵糰用保鮮膜包好，放入冷藏30分鐘。</p>
+        </div>
+        <div class="step4">
+        	<p>塔皮的尺寸可以依照塔模決定，可以捏成一小球，放如塔模中慢慢往外延伸，也可以利用較大的圓型碗壓出形狀，不過塔皮要有一點厚度約0.2mm，不適合過薄。</p>
+        </div>
+        <div class="step5">
+        	<p>進行烘烤前，可以將成型的塔模放入冰箱在冷藏一下，再用叉子搓上氣孔，隔上烘焙紙再擺上烘焙石或豆子，讓烤饃再烘烤的時候不會太過膨脹。 烘烤時間：上下火200度，烘烤15分鐘</p>
+        </div>
+        <div class="step6">
+        	<p>起司內餡(材料)</p>
+        </div>
+        <div class="step7">
+        	<p>法國鐵塔牌-美式奶油起士，淨重1.36公斤。鐵塔牌-美式奶油起士是採用鮮奶油再次濃縮後發酵而成的高檔食材（ 是各大飯店及知名烘焙專賣店的指定愛用款喔 ）價格卻只要350左右。</p>
+        </div>
+        <div class="step8">
+        	<p>奶油乳酪、白糖、奶油、鮮奶油、麵粉一起打散，可以使用隔水加熱，或者直接放在爐火上煮，我個人偏向第一種做法，不會讓溫度過高，也不至於造成黏鍋，攪拌均勻的第一個步驟以後，在將全蛋分次加入，再放回爐火上煮至濃稠，帶降溫後放入冷藏1-2小時，起司內餡就完成了。</p>
+        </div>
+        <div class="step9">
+        	<p>製作好的起司內餡會更凝固一些，可以使用擠花袋填入起司內餡再擠上塔皮中，也可以使用湯匙，隨自己喜好即可，最後再上層塗上蛋黃液，烘烤的時候比較容易上色。烘烤時間：預熱烤箱10分鐘，使用上下火200度烘烤8-10分即可。</p>
+        </div>
+        <div class="step10">
+        	<p>完成</p>
+        </div>
+        <div class="step11">
+        	<p>一切開塔皮是五分熟。師傅妳烤得真好，自己給自己一點掌聲</p>
+        </div>
+        
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <div class="footer">
+            NTUB imd, 2017.    
+        </div>        
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--> 
+	
+    </div>
+    <!--==========================================-->  
+         
+    <!--*********-->
+    <!-- 載入js  -->
+    <!--*********-->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>     
+    <script src="js/jQueryRotate.js"></script>
+    <script src="js/scripts.js"></script> 
+    
+</body>
+</html>
